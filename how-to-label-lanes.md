@@ -40,7 +40,7 @@
 请在以下情况对已有标注线进行“重标”：
 
 1. 标注线受路面阴影或图案误导，未正确沿实际车道线标注。
-  [![标注线被地面沥青阴影所误导](https://github.com/WhosFish/TuSimple-Format-Lane-Annotation-Editor/blob/main/img/%E9%87%8D%E6%96%B0%E4%BF%AE%E8%AE%A2%20-%20%E5%9C%B0%E9%9D%A2%E9%98%B4%E5%BD%B1.png)]
+![标注线被地面沥青阴影所误导](https://github.com/WhosFish/TuSimple-Format-Lane-Annotation-Editor/blob/main/img/%E9%87%8D%E6%96%B0%E4%BF%AE%E8%AE%A2%20-%20%E5%9C%B0%E9%9D%A2%E9%98%B4%E5%BD%B1.png)
 2. 标注线出现明显且不自然的折线。
 
 3. 标注线发生明显偏折，明显偏离真实车道线。
